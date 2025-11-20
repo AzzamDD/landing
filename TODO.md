@@ -1,0 +1,4 @@
+- [x] Modify landing/src/app/page.tsx to make the ROR logo image fill the screen
+  - [x] Update the container div to full screen dimensions
+  - [x] Change Image component to use fill prop and objectFit cover
+  - [x] Remove unnecessary grid layout and footer
